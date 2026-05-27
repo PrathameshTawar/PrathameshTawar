@@ -35,9 +35,9 @@
 # 🚀 About Me
 
 - 🔭 Working on **Web Development & Mini Projects**  
-- 🌱 Learning **Python, JavaScript, Cybersecurity**  
-- 💬 Ask me about **Frontend, Git, Linux, APIs**  
-- 🎯 Goal: Become a **full-stack developer**  
+- 🌱 Learning **AI ML , Cybersecurity**  
+- 💬 Ask me about **Frontend, Git, APIs**  
+- 🎯 Goal: Become a **AI ML developer and Devops**  
 - ⚡ Fun Fact: I love **clean UI + animated motion graphics**  
 
 ---
@@ -55,15 +55,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,tailwind,git,github,vscode,linux" height="45"/>
 </p>
-
----
-
-# 📌 Pinned Projects
-
-### 🎧 **Spotify Clone** – Modern UI Music App  
-### 🧠 **Meta** – Python concept exploration  
-### 🎮 **Simon Game** – JS-based memory game  
-
 ---
 
 # 📊 GitHub Stats
