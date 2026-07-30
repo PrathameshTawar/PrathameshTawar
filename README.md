@@ -579,52 +579,112 @@ Real-time multilingual translation platform powered by modern language models.
 
 ---
 
-# 💡 Areas of Interest
-
-```text
-🧠 Agentic AI
-🤖 Multi-Agent Systems
-📚 Retrieval Augmented Generation
-☁️ Cloud Native AI
-⚡ Backend Engineering
-🧩 AI Infrastructure
-🛠 Developer Tools<!-- ========================================================= -->
+<!-- ========================================================= -->
 <!--                 CURRENTLY BUILDING                        -->
 <!-- ========================================================= -->
 
-# 🚧 Currently Building
+<h1 align="center">🚀 Currently Building</h1>
 
 <div align="center">
 
-| 🚀 Project | Status |
-|------------|--------|
-| 🧠 Multi-Agent AI Platform | 🟢 Active |
-| 📚 AI Research Paper | 🟢 In Progress |
-| 📜 AI Patent | 🟢 In Progress |
-| 🌍 AI Translation Platform | 🟢 Active |
-| ⚡ AI Workflow Automation | 🟢 Active |
-| ☁️ Cloud Native AI Infrastructure | 🟢 Active |
+| 🏗️ Project | 🚦 Status | 🎯 Focus |
+|:-----------|:--------:|:--------|
+| 🧠 Multi-Agent AI Platform | 🟢 Active | Autonomous AI Systems |
+| 📚 AI Research Paper | 🟢 Writing | Applied LLM Research |
+| 📜 AI Patent | 🟢 Filing | AI Innovation |
+| 🌍 AI Translation Platform | 🟢 Building | Multilingual Intelligence |
+| ⚡ AI Workflow Automation | 🟢 Active | Enterprise Automation |
+| ☁️ AI Infrastructure | 🟢 Scaling | Cloud Native AI |
 
 </div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Agentic_AI-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Research-LLMs-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-GitHub-181717?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🔬 Research & Innovation
 
-I'm deeply interested in building production-grade AI systems and conducting applied AI research.
+<div align="center">
 
-### Current Research Areas
+> **Building production-grade AI systems where intelligent agents, memory, retrieval, and scalable infrastructure work together.**
 
-- 🧠 Agentic AI
-- 🤖 Multi-Agent Collaboration
-- 📚 Retrieval-Augmented Generation (RAG)
-- 💾 Long-Term Memory Systems
-- 🔍 Hybrid Search & Vector Retrieval
-- 🏗 AI Infrastructure
-- ⚡ AI Workflow Automation
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 Artificial Intelligence
+
+- 🤖 Agentic AI
+- 👥 Multi-Agent Systems
+- 🧠 Reasoning & Planning
+- 🔄 Tool Calling
+- 🪄 Prompt Engineering
+
+</td>
+
+<td width="50%">
+
+### 📚 LLM Systems
+
+- 📖 Retrieval-Augmented Generation
+- 💾 Long-Term Memory
+- 🔎 Hybrid Search
+- 🗂️ Vector Databases
 - 📊 LLM Evaluation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ⚡ Engineering
+
+- 🚀 Backend Engineering
 - ☁️ Cloud Native AI
+- 🏗️ System Design
+- 🔗 API Development
+- 🧩 AI Infrastructure
+
+</td>
+
+<td>
+
+### 🔭 Research
+
+- 📜 AI Patent
+- 📚 AI Research Paper
 - 🌍 Multilingual AI
+- 🤝 Human-AI Collaboration
+- ⚙️ AI Workflow Automation
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -632,29 +692,27 @@ I'm deeply interested in building production-grade AI systems and conducting app
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrathameshTawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrathameshTawar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshTawar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshTawar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshTawar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PrathameshTawar&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshTawar&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshTawar&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </div>
 
@@ -664,45 +722,96 @@ I'm deeply interested in building production-grade AI systems and conducting app
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PrathameshTawar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PrathameshTawar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Roadmap
+# 🗺️ 2026 Roadmap
+
+<div align="center">
 
 ```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 CAREER
+
 ✅ AI Engineer
-
 ✅ Production AI Systems
-
 ✅ Multi-Agent Platforms
 
-🟢 AI Research Paper
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+🔬 RESEARCH
+
+🟢 AI Research Paper
 🟢 AI Patent
 
-⬜ Open Source Contributions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌍 OPEN SOURCE
+
+⬜ 100+ Contributions
+⬜ 1,000 GitHub Stars
+⬜ AI Developer Community
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎤 PROFESSIONAL
 
 ⬜ Conference Speaker
+⬜ International Publication
+⬜ Open Source Maintainer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏢 ENTREPRENEURSHIP
 
 ⬜ AI SaaS Product
+⬜ AI Startup
+⬜ Global Users
 
-⬜ International Research Publication
-
-⬜ 1,000+ GitHub Stars
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+</div>
+
+---
+
+# 💡 Current Interests
+
+<div align="center">
+
+| 🧠 AI | ⚙️ Systems | ☁️ Infrastructure | 🔬 Research |
+|:------|:-----------|:------------------|:------------|
+| Agentic AI | Backend Engineering | AWS | LLM Research |
+| Multi-Agent Systems | Distributed Systems | Docker | Memory Systems |
+| RAG | API Design | Kubernetes | AI Evaluation |
+| Tool Calling | System Design | PostgreSQL | Responsible AI |
+| Long Context | FastAPI | Vector Databases | Applied AI |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Engineering Philosophy
+
+*"Great AI products are built through reliable engineering, scalable infrastructure, and thoughtful system design—not just powerful language models."*
+
+</div>
 
 ---
 
