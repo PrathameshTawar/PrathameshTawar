@@ -139,3 +139,621 @@ AI Patent
 > *They are built through great engineering, scalable architectures, reliable infrastructure, and thoughtful system design."*
 
 ---
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,sql,bash&perline=8"/>
+
+</p>
+
+---
+
+## 🤖 AI • Machine Learning • GenAI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8"/>
+
+</p>
+
+| Technology | Experience |
+|------------|------------|
+| 🤖 OpenAI API | ⭐⭐⭐⭐⭐ |
+| 🧠 Claude API | ⭐⭐⭐⭐⭐ |
+| 💎 Gemini API | ⭐⭐⭐⭐⭐ |
+| 🦙 Ollama | ⭐⭐⭐⭐☆ |
+| 🔗 LangChain | ⭐⭐⭐⭐⭐ |
+| ⚡ LangGraph | ⭐⭐⭐⭐⭐ |
+| 🧩 AutoGen | ⭐⭐⭐⭐☆ |
+| 📚 LlamaIndex | ⭐⭐⭐⭐☆ |
+| 🔥 HuggingFace | ⭐⭐⭐⭐☆ |
+| 🧠 Sentence Transformers | ⭐⭐⭐⭐☆ |
+| 🔍 RAG Pipelines | ⭐⭐⭐⭐⭐ |
+| 🚀 Multi-Agent Systems | ⭐⭐⭐⭐⭐ |
+| 🧠 Prompt Engineering | ⭐⭐⭐⭐⭐ |
+| 📦 Vector Databases | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 🌐 Backend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&perline=6"/>
+
+</p>
+
+### Backend Expertise
+
+- REST APIs
+- Async Python
+- Authentication
+- JWT
+- OAuth
+- WebSockets
+- Background Workers
+- API Design
+- Microservices
+- Distributed Systems
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=6"/>
+
+</p>
+
+Experienced in building modern responsive AI dashboards and full-stack applications.
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx&perline=6"/>
+
+</p>
+
+### Cloud Skills
+
+- AWS ECS
+- AWS Lambda
+- AWS S3
+- AWS EC2
+- Docker
+- CI/CD
+- GitHub Actions
+- Reverse Proxy
+- Deployment Automation
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&perline=6"/>
+
+</p>
+
+### Database Technologies
+
+- PostgreSQL
+- MongoDB
+- Redis
+- Supabase
+- pgvector
+- Pinecone
+- ChromaDB
+
+---
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=6"/>
+
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+```text
+✓ Agentic AI
+✓ AI Infrastructure
+✓ Long-Term Memory Systems
+✓ Model Context Protocol (MCP)
+✓ Reinforcement Learning
+✓ AI Evaluation
+✓ CUDA
+✓ MLOps
+✓ Kubernetes
+✓ Distributed AI Systems
+```
+
+---
+
+## 🧩 Core Expertise
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🧠
+
+### Agentic AI
+
+Supervisor Agents
+
+Planning
+
+Memory
+
+Tool Calling
+
+Reasoning
+
+</td>
+
+<td align="center">
+
+⚡
+
+### Backend
+
+FastAPI
+
+Async APIs
+
+Authentication
+
+Scaling
+
+Caching
+
+</td>
+
+<td align="center">
+
+☁️
+
+### Cloud
+
+AWS
+
+Docker
+
+CI/CD
+
+Deployment
+
+Monitoring
+
+</td>
+
+<td align="center">
+
+📚
+
+### AI Systems
+
+RAG
+
+Embeddings
+
+Vector Search
+
+LLMs
+
+Automation
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🔥 Favorite Technologies
+
+<div align="center">
+
+| ❤️ Love Building With |
+|-----------------------|
+| Python |
+| FastAPI |
+| LangGraph |
+| PostgreSQL |
+| AWS |
+| React |
+| Docker |
+| OpenAI |
+| Claude |
+| Gemini |
+| Redis |
+| Pinecone |
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                   FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+> Building production-grade AI systems focused on **Agentic AI**, **LLMs**, **Automation**, and **Cloud Infrastructure**.
+
+---
+
+## 🧠 DARKSEID
+
+### Multi-Agent AI Platform
+
+Production-grade AI platform capable of planning, reasoning, memory management and tool execution.
+
+### ✨ Features
+
+- 🧠 Supervisor Agent
+- 🤖 Multi-Agent Architecture
+- 📚 Retrieval Augmented Generation (RAG)
+- 💾 Long-Term Memory
+- 🔍 Hybrid Search
+- ⚡ Tool Calling
+- 📈 Scalable FastAPI Backend
+- 🌐 React Dashboard
+- ☁️ AWS Deployment
+
+### 🛠 Tech Stack
+
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `AWS` `React` `Redis`
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Architecture-0A66C2?style=for-the-badge">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Demo-00C853?style=for-the-badge">
+</a>
+
+</p>
+
+---
+
+## ⚡ AI Media OS
+
+### Autonomous AI Content Platform
+
+An AI-powered operating system for content creation, automation and social media management.
+
+### Features
+
+- 🎥 AI Video Generation
+- ✍️ AI Content Writing
+- 📰 Personalized News Feed
+- 📅 Social Media Scheduling
+- 🤖 AI Workflow Automation
+- 📊 Analytics Dashboard
+
+### Tech
+
+`FastAPI` `React` `OpenAI` `AWS` `Docker`
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Demo-00C853?style=for-the-badge">
+</a>
+
+</p>
+
+---
+
+## 🚀 DevOps Autopilot
+
+### AI DevOps Engineer
+
+AI-powered DevOps assistant capable of deployment, debugging and infrastructure automation.
+
+### Features
+
+- 🚀 Deployment Automation
+- 🐳 Docker Integration
+- ☁️ Cloud Support
+- 📋 Log Analysis
+- 🔍 Error Diagnosis
+- 📊 Monitoring
+
+### Tech
+
+`Python` `FastAPI` `Docker` `AWS`
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+## 🌍 SatyaSetu
+
+### Rural Cyber Defense Platform
+
+AI-powered cyber awareness and protection platform for rural communities.
+
+### Features
+
+- 🛡 Scam Detection
+- 🌐 Regional Language Support
+- 🤖 AI Assistant
+- 📚 Educational Modules
+- 📱 Mobile Friendly
+
+### Tech
+
+`Python` `FastAPI` `LLMs` `React`
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+## 🌐 Lingo
+
+### AI Translation Platform
+
+Real-time multilingual translation platform powered by modern language models.
+
+### Features
+
+- 🌍 Multiple Languages
+- ⚡ Fast Translation
+- 🤖 LLM Powered
+- 🧠 Context Aware
+- 🔊 Speech Support
+
+### Tech
+
+`Python` `FastAPI` `React`
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 📈 Engineering Highlights
+
+| Domain | Experience |
+|---------|------------|
+| 🤖 Agentic AI | ⭐⭐⭐⭐⭐ |
+| 🧠 LLM Applications | ⭐⭐⭐⭐⭐ |
+| 🔍 RAG Pipelines | ⭐⭐⭐⭐⭐ |
+| ⚡ Backend APIs | ⭐⭐⭐⭐⭐ |
+| ☁️ Cloud Deployment | ⭐⭐⭐⭐☆ |
+| 📊 AI Automation | ⭐⭐⭐⭐⭐ |
+| 🏗 System Design | ⭐⭐⭐⭐☆ |
+| 🌐 Full Stack Development | ⭐⭐⭐⭐☆ |
+
+---
+
+# 💡 Areas of Interest
+
+```text
+🧠 Agentic AI
+🤖 Multi-Agent Systems
+📚 Retrieval Augmented Generation
+☁️ Cloud Native AI
+⚡ Backend Engineering
+🧩 AI Infrastructure
+🛠 Developer Tools<!-- ========================================================= -->
+<!--                 CURRENTLY BUILDING                        -->
+<!-- ========================================================= -->
+
+# 🚧 Currently Building
+
+<div align="center">
+
+| 🚀 Project | Status |
+|------------|--------|
+| 🧠 Multi-Agent AI Platform | 🟢 Active |
+| 📚 AI Research Paper | 🟢 In Progress |
+| 📜 AI Patent | 🟢 In Progress |
+| 🌍 AI Translation Platform | 🟢 Active |
+| ⚡ AI Workflow Automation | 🟢 Active |
+| ☁️ Cloud Native AI Infrastructure | 🟢 Active |
+
+</div>
+
+---
+
+# 🔬 Research & Innovation
+
+I'm deeply interested in building production-grade AI systems and conducting applied AI research.
+
+### Current Research Areas
+
+- 🧠 Agentic AI
+- 🤖 Multi-Agent Collaboration
+- 📚 Retrieval-Augmented Generation (RAG)
+- 💾 Long-Term Memory Systems
+- 🔍 Hybrid Search & Vector Retrieval
+- 🏗 AI Infrastructure
+- ⚡ AI Workflow Automation
+- 📊 LLM Evaluation
+- ☁️ Cloud Native AI
+- 🌍 Multilingual AI
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrathameshTawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshTawar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PrathameshTawar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshTawar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PrathameshTawar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+✅ AI Engineer
+
+✅ Production AI Systems
+
+✅ Multi-Agent Platforms
+
+🟢 AI Research Paper
+
+🟢 AI Patent
+
+⬜ Open Source Contributions
+
+⬜ Conference Speaker
+
+⬜ AI SaaS Product
+
+⬜ International Research Publication
+
+⬜ 1,000+ GitHub Stars
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/PrathameshTawar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prathamesh-taware-39bab8288">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<!-- Replace with your portfolio URL when available -->
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
+</a>
+
+<!-- Replace with your email -->
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+> **"Great AI isn't just about powerful models—it's about designing reliable systems that people can trust."**
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+If you like my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e3a8a,70:0891b2,100:06b6d4&height=120&section=footer"/>
+
+</div>
+🔬 AI Research
+📜 Innovation & Patents
+🌍 Open Source
+```
+
+---
