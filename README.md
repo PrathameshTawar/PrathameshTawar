@@ -152,7 +152,7 @@ AI Patent
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,sql,bash&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,bash&perline=8"/>
 
 </p>
 
