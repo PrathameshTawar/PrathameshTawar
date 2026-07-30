@@ -1,112 +1,141 @@
-<!-- ------------------ Animated Header Banner ------------------ -->
+<!-- ========================================================= -->
+<!--                   PRATHAMESH TAWARE                        -->
+<!--            AI ENGINEER | AGENTIC AI | LLMs                -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&height=70&color=00F0FF&lines=Welcome+to+Prathamesh+Tawar's+GitHub!;Computer+Engineer+%7C+Web+Developer;Cybersecurity+Enthusiast+%7C+Tech+Learner" />
-</p>
+<div align="center">
 
-<!-- Moving Wave Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave.svg" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Prathamesh+Taware;AI+Engineer;Building+Production+AI+Systems;Agentic+AI+•+LLMs+•+Cloud+•+Backend;FastAPI+•+LangGraph+•+AWS+•+React;Research+•+Open+Source+•+Innovation" />
 
-<!-- Gradient Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="400"/>
-</p>
+<br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e3a8a,70:0891b2,100:06b6d4&text=AI%20Engineer&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Building%20Production%20Grade%20AI%20Systems&descAlignY=58&animation=fadeIn"/>
 
-<!-- ------------------ Title & Intro ------------------ -->
+</div>
 
-<h1 align="center">Hi 👋, I'm Prathamesh Tawar</h1>
-<h3 align="center">Passionate Computer Engineer | Web Developer | Python & JS Learner</h3>
+---
 
-<!-- Neon Glow Animated Line -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chandra-Sekhar-Balla/Chandra-Sekhar-Balla/main/assets/line-neon.svg" width="80%">
-</p>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=20&duration=3000&color=12F7FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Web+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New!" />
-</p>
+# 👋 Hi, I'm Prathamesh Taware
+
+### AI Engineer • Computer Engineering Student • AI Researcher
+
+Building intelligent systems that combine
+
+**LLMs • Agentic AI • Backend Engineering • Cloud Infrastructure • Research**
+
+</div>
+
+---
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=PrathameshTawar&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/PrathameshTawar)
+
+[![GitHub followers](https://img.shields.io/github/followers/PrathameshTawar?style=for-the-badge)](https://github.com/PrathameshTawar)
+
+[![GitHub Stars](https://img.shields.io/github/stars/PrathameshTawar?affiliations=OWNER&style=for-the-badge)](https://github.com/PrathameshTawar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathamesh-taware-39bab8288)
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 Working on **Web Development & Mini Projects**  
-- 🌱 Learning **AI ML , Cybersecurity**  
-- 💬 Ask me about **Frontend, Git, APIs**  
-- 🎯 Goal: Become a **AI ML developer and Devops**  
-- ⚡ Fun Fact: I love **clean UI + animated motion graphics**  
+```yaml
+Name: Prathamesh Taware
+
+Role:
+  AI Engineer
+
+Education:
+  • Computer Engineering
+    MIT Academy of Engineering
+
+Current Focus:
+  • Agentic AI
+  • Production LLM Systems
+  • Multi-Agent Architectures
+  • Backend Engineering
+  • AI Infrastructure
+
+Currently Working On:
+  • AI Research Paper
+  • AI Patent
+  • Multi-Agent AI Platforms
+  • AI Workflow Automation
+  • Cloud Native AI Applications
+
+Interests:
+  • Artificial Intelligence
+  • Distributed Systems
+  • Backend Development
+  • System Design
+  • Open Source
+
+Mission:
+  Build AI systems that solve real-world problems.
+```
 
 ---
 
-# 🌈 Animated Skills Banner
+# ⚡ Quick Snapshot
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-</p>
+<table>
+<tr>
 
----
+<td align="center" width="25%">
 
-# 🎨 Tech Stack
+🧠
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nodejs,tailwind,git,github,vscode,linux" height="45"/>
-</p>
----
+### AI Engineer
 
-# 📊 GitHub Stats
+Building production AI systems
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrathameshTawar&show_icons=true&theme=react&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshTawar&layout=compact&theme=react&hide_border=true" height="165"/>
-</p>
+</td>
 
----
+<td align="center" width="25%">
 
-# 🔥 GitHub Streak
+🤖
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrathameshTawar&theme=react&hide_border=true" />
-</p>
+### Agentic AI
 
----
+Multi-agent architectures
 
-# 📈 Activity Graph
+</td>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshTawar&theme=react-dark&hide_border=true" />
-</p>
+<td align="center" width="25%">
 
----
+📚
 
-# 🐍 Snake Animation (Contributions)
+### Research
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+AI Research Paper
 
----
+</td>
 
-# 🔮 Animated Footer Banner
+<td align="center" width="25%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khalby786/khalby786/master/assets/intro.gif" width="400">
-</p>
+📜
+
+### Innovation
+
+AI Patent
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🌐 Socials
+# 💭 Engineering Philosophy
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-</p>
+> *"AI products aren't built by models alone.*
+>
+> *They are built through great engineering, scalable architectures, reliable infrastructure, and thoughtful system design."*
 
 ---
-
-<p align="center">
-  ⭐ **If you like my profile, feel free to star my repositories!** ⭐
-</p>
