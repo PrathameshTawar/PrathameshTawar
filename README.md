@@ -1,805 +1,179 @@
-<!-- ========================================================= -->
-<!--                   PRATHAMESH TAWARE                        -->
-<!--            AI ENGINEER | AGENTIC AI | LLMs                -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--   PRATHAMESH TAWARE · AI Engineer                            -->
+<!--   Profile README: github.com/PrathameshTawar                -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=1000&lines=Hi+👋,+I'm+Prathamesh+Taware;AI+Engineer;Building+Production+AI+Systems;Agentic+AI+•+LLMs+•+Cloud+•+Backend;FastAPI+•+LangGraph+•+AWS+•+React;Research+•+Open+Source+•+Innovation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:1e3a8a,70:0891b2,100:06b6d4&text=Prathamesh%20Taware&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Agentic%20AI%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20Backend&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1100&color=06B6D4&center=true&vCenter=true&width=820&lines=AI+Engineer;Multi-agent+systems+with+LangGraph;RAG+%E2%80%A2+evals+%E2%80%A2+guardrails;Multilingual+AI+for+Indian+languages;Python+%E2%80%A2+FastAPI+%E2%80%A2+TypeScript+%E2%80%A2+AWS" alt="Typing intro"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e3a8a,70:0891b2,100:06b6d4&text=AI%20Engineer&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Building%20Production%20Grade%20AI%20Systems&descAlignY=58&animation=fadeIn"/>
+<br/>
+
+<a href="https://www.linkedin.com/in/prathamesh-taware-39bab8288"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- TODO: add your email, e.g. <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+<img src="https://komarev.com/ghpvc/?username=PrathameshTawar&label=Profile%20views&color=0891b2&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 👋 Hi, I'm Prathamesh Taware
-
-### AI Engineer • Computer Engineering Student • AI Researcher
-
-Building intelligent systems that combine
-
-**LLMs • Agentic AI • Backend Engineering • Cloud Infrastructure • Research**
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=PrathameshTawar&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/PrathameshTawar)
-
-[![GitHub followers](https://img.shields.io/github/followers/PrathameshTawar?style=for-the-badge)](https://github.com/PrathameshTawar)
-
-[![GitHub Stars](https://img.shields.io/github/stars/PrathameshTawar?affiliations=OWNER&style=for-the-badge)](https://github.com/PrathameshTawar)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathamesh-taware-39bab8288)
-
-</div>
-
----
-
-# 🚀 About Me
+## 👋 About me
 
 ```yaml
-Name: Prathamesh Taware
-
-Role:
-  AI Engineer
-
-Education:
-  • Computer Engineering
-    MIT Academy of Engineering
-
-Current Focus:
-  • Agentic AI
-  • Production LLM Systems
-  • Multi-Agent Architectures
-  • Backend Engineering
-  • AI Infrastructure
-
-Currently Working On:
-  • AI Research Paper
-  • AI Patent
-  • Multi-Agent AI Platforms
-  • AI Workflow Automation
-  • Cloud Native AI Applications
-
-Interests:
-  • Artificial Intelligence
-  • Distributed Systems
-  • Backend Development
-  • System Design
-  • Open Source
-
-Mission:
-  Build AI systems that solve real-world problems.
+name:      Prathamesh Taware
+education: Computer Engineering · MIT Academy of Engineering, Pune
+focus:     Multi-agent systems · RAG & evaluation · multilingual AI · backend engineering
+research:  Indic multilingual RAG translation (paper in progress)
 ```
+
+I build AI systems that show their work: agents that cite evidence, pipelines that get benchmarked, and backends with tests behind them.
 
 ---
 
-# ⚡ Quick Snapshot
+## 🚀 Featured projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
+### 🧠 [SwarmIQ](https://github.com/PrathameshTawar/Vellora-project-)
+**A multi-agent AI research assistant.** It automates literature review from start to finish.
 
-🧠
+- Planner, literature, claim-extraction, conflict-resolution, synthesis and evaluator agents
+- Credibility scoring and a knowledge store with memory
+- Gradio UI that streams agent activity and exports to MD, PDF, PPT and JSON
+- **225 passing unit and property-based tests**
 
-### AI Engineer
-
-Building production AI systems
-
-</td>
-
-<td align="center" width="25%">
-
-🤖
-
-### Agentic AI
-
-Multi-agent architectures
+`Python` `OpenAI` `Pinecone` `Tavily` `Gradio`
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
+### 👑 [Monarch](https://github.com/PrathameshTawar/aws-benglore)
+**An AI incident investigator.** It turns logs, post-mortems, metrics and screenshots into a root-cause report you can trace back to the evidence.
 
-📚
+- LangGraph agents with RAG, SQL and an MCP tool server
+- Input and output guardrails, evidence chains, contradiction detection
+- Built-in evaluation harness
+- Groq Vision reads dashboard screenshots
 
-### Research
-
-AI Research Paper
-
-</td>
-
-<td align="center" width="25%">
-
-📜
-
-### Innovation
-
-AI Patent
+`FastAPI` `LangGraph` `React` `Docker` `AWS S3 + ECS Fargate`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🌐 [Indic RAG Translation](https://github.com/PrathameshTawar/translations-)
+**Retrieval-augmented translation for Indian languages.** This is the research project behind my paper.
+
+- FAISS retrieval indexes for 7 languages: Hindi, Marathi, Bengali, Gujarati, Kannada, Tamil and Telugu
+- Benchmark harness with ablation studies, beam-search profiling, and hallucination and security evaluation
+- Flask API with a React front end, deployable with Docker
+
+`Python` `FAISS` `Transformers` `Flask` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ [Visual AI Agent](https://github.com/PrathameshTawar/visual-agent-)
+**A privacy-first browser activity memory.** It records what you do in the browser and makes it searchable with vision AI.
+
+- Chrome extension (Manifest V3, TypeScript) sends events to async FastAPI, with Celery workers for vision, OCR and embeddings
+- Semantic and keyword search over pgvector
+- Opt-in only, site allow and block lists, and redaction of sensitive fields
+
+`TypeScript` `FastAPI` `Celery` `PostgreSQL + pgvector` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [STRIDE OPS](https://github.com/PrathameshTawar/CS-)
+**An AI-native first-person shooter engine that runs in the browser.**
+
+- Two modes: Classic (deterministic) and AI (generated, adaptive levels)
+- Entity-component system, squad AI with perception and navigation, procedurally generated meshes, textures and audio
+- About 35k lines of TypeScript, with unit tests and a visual-regression gate
+
+`TypeScript` `Three.js` `WebGL2` `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [SignalForge](https://github.com/PrathameshTawar/trading-system)
+**A quantitative research pipeline for equity markets** (NSE, BSE and US).
+
+- Scale-free feature engineering and IC-based feature selection
+- Nested walk-forward cross-validation with embargo purging to prevent data leakage
+- Matrix backtesting, drift monitoring, and a paper-trading harness
+
+`Python` `pandas` `scikit-learn` `statsmodels`
+
+</td>
 </tr>
 </table>
 
+<details>
+<summary><b>🧰 More projects</b></summary>
+<br/>
+
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [EngageTech AI](https://github.com/PrathameshTawar/et) | 8-agent LangGraph pipeline that writes social posts that pass compliance checks and get an engagement score. Streams over SSE, with human approval before posting | LangGraph · FastAPI · Qdrant |
+| [KYC Intelligence](https://github.com/PrathameshTawar/punawala) | Video-based loan onboarding. Voice and vision checks feed a rule-based risk engine, so AI never makes the final call alone | FastAPI · React · Alembic · K8s |
+| [AIM-Env](https://github.com/PrathameshTawar/Reinforcement-learning) | OpenEnv-compliant RL environment where an LLM agent triages an email inbox. Auto-deploys to Hugging Face | Python · Docker · GitHub Actions |
+| [Hava](https://github.com/PrathameshTawar/hava) | Speech intelligence: Whisper transcription, translation, AI summaries and live WebSocket transcription | FastAPI · Celery · Next.js |
+| [ReviewPulse](https://github.com/PrathameshTawar/27-sept-) | AI code review with health scores, a 3-panel inspector and fix diffs. Works with OpenAI, Ollama or LM Studio | Next.js · NestJS · Prisma |
+| [Cursor Reader MCP](https://github.com/PrathameshTawar/wind-testing-) | MCP server that safely reads Cursor workspace metadata. It blocks secret files from being read | TypeScript · MCP |
+
+</details>
+
 ---
 
-# 💭 Engineering Philosophy
-
-> *"AI products aren't built by models alone.*
->
-> *They are built through great engineering, scalable architectures, reliable infrastructure, and thoughtful system design."*
-
----
-
-<!-- ========================================================= -->
-<!--                     TECH STACK                            -->
-<!-- ========================================================= -->
-
-# ⚙️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
-## 👨‍💻 Languages
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,bash&perline=6"/>
 
-<p>
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,redis,mongodb,supabase&perline=7"/>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,bash&perline=8"/>
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3"/>
 
-</p>
+`LangGraph` `LangChain` `RAG` `FAISS` `pgvector` `Pinecone` `Qdrant` `MCP` `HuggingFace` `Whisper`
 
----
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,nginx&perline=5"/>
 
-## 🤖 AI • Machine Learning • GenAI
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8"/>
-
-</p>
-
-| Technology | Experience |
-|------------|------------|
-| 🤖 OpenAI API | ⭐⭐⭐⭐⭐ |
-| 🧠 Claude API | ⭐⭐⭐⭐⭐ |
-| 💎 Gemini API | ⭐⭐⭐⭐⭐ |
-| 🦙 Ollama | ⭐⭐⭐⭐☆ |
-| 🔗 LangChain | ⭐⭐⭐⭐⭐ |
-| ⚡ LangGraph | ⭐⭐⭐⭐⭐ |
-| 🧩 AutoGen | ⭐⭐⭐⭐☆ |
-| 📚 LlamaIndex | ⭐⭐⭐⭐☆ |
-| 🔥 HuggingFace | ⭐⭐⭐⭐☆ |
-| 🧠 Sentence Transformers | ⭐⭐⭐⭐☆ |
-| 🔍 RAG Pipelines | ⭐⭐⭐⭐⭐ |
-| 🚀 Multi-Agent Systems | ⭐⭐⭐⭐⭐ |
-| 🧠 Prompt Engineering | ⭐⭐⭐⭐⭐ |
-| 📦 Vector Databases | ⭐⭐⭐⭐⭐ |
-
----
-
-## 🌐 Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&perline=6"/>
-
-</p>
-
-### Backend Expertise
-
-- REST APIs
-- Async Python
-- Authentication
-- JWT
-- OAuth
-- WebSockets
-- Background Workers
-- API Design
-- Microservices
-- Distributed Systems
-
----
-
-## 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&perline=6"/>
-
-</p>
-
-Experienced in building modern responsive AI dashboards and full-stack applications.
-
----
-
-## ☁️ Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx&perline=6"/>
-
-</p>
-
-### Cloud Skills
-
-- AWS ECS
-- AWS Lambda
-- AWS S3
-- AWS EC2
-- Docker
-- CI/CD
-- GitHub Actions
-- Reverse Proxy
-- Deployment Automation
-
----
-
-## 🗄️ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&perline=6"/>
-
-</p>
-
-### Database Technologies
-
-- PostgreSQL
-- MongoDB
-- Redis
-- Supabase
-- pgvector
-- Pinecone
-- ChromaDB
-
----
-
-## 🛠️ Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=6"/>
-
-</p>
-
----
-
-## 📚 Currently Exploring
-
-```text
-✓ Agentic AI
-✓ AI Infrastructure
-✓ Long-Term Memory Systems
-✓ Model Context Protocol (MCP)
-✓ Reinforcement Learning
-✓ AI Evaluation
-✓ CUDA
-✓ MLOps
-✓ Kubernetes
-✓ Distributed AI Systems
-```
-
----
-
-## 🧩 Core Expertise
-
-<table>
-
-<tr>
-
-<td align="center">
-
-🧠
-
-### Agentic AI
-
-Supervisor Agents
-
-Planning
-
-Memory
-
-Tool Calling
-
-Reasoning
-
-</td>
-
-<td align="center">
-
-⚡
-
-### Backend
-
-FastAPI
-
-Async APIs
-
-Authentication
-
-Scaling
-
-Caching
-
-</td>
-
-<td align="center">
-
-☁️
-
-### Cloud
-
-AWS
-
-Docker
-
-CI/CD
-
-Deployment
-
-Monitoring
-
-</td>
-
-<td align="center">
-
-📚
-
-### AI Systems
-
-RAG
-
-Embeddings
-
-Vector Search
-
-LLMs
-
-Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🔥 Favorite Technologies
-
-<div align="center">
-
-| ❤️ Love Building With |
-|-----------------------|
-| Python |
-| FastAPI |
-| LangGraph |
-| PostgreSQL |
-| AWS |
-| React |
-| Docker |
-| OpenAI |
-| Claude |
-| Gemini |
-| Redis |
-| Pinecone |
+**Frontend & graphics**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&perline=5"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                   FEATURED PROJECTS                       -->
-<!-- ========================================================= -->
-
-# 🚀 Featured Projects
-
-> Building production-grade AI systems focused on **Agentic AI**, **LLMs**, **Automation**, and **Cloud Infrastructure**.
-
----
-
-## 🧠 DARKSEID
-
-### Multi-Agent AI Platform
-
-Production-grade AI platform capable of planning, reasoning, memory management and tool execution.
-
-### ✨ Features
-
-- 🧠 Supervisor Agent
-- 🤖 Multi-Agent Architecture
-- 📚 Retrieval Augmented Generation (RAG)
-- 💾 Long-Term Memory
-- 🔍 Hybrid Search
-- ⚡ Tool Calling
-- 📈 Scalable FastAPI Backend
-- 🌐 React Dashboard
-- ☁️ AWS Deployment
-
-### 🛠 Tech Stack
-
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `AWS` `React` `Redis`
-
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Architecture-0A66C2?style=for-the-badge">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Demo-00C853?style=for-the-badge">
-</a>
-
-</p>
-
----
-
-## ⚡ AI Media OS
-
-### Autonomous AI Content Platform
-
-An AI-powered operating system for content creation, automation and social media management.
-
-### Features
-
-- 🎥 AI Video Generation
-- ✍️ AI Content Writing
-- 📰 Personalized News Feed
-- 📅 Social Media Scheduling
-- 🤖 AI Workflow Automation
-- 📊 Analytics Dashboard
-
-### Tech
-
-`FastAPI` `React` `OpenAI` `AWS` `Docker`
-
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Demo-00C853?style=for-the-badge">
-</a>
-
-</p>
-
----
-
-## 🚀 DevOps Autopilot
-
-### AI DevOps Engineer
-
-AI-powered DevOps assistant capable of deployment, debugging and infrastructure automation.
-
-### Features
-
-- 🚀 Deployment Automation
-- 🐳 Docker Integration
-- ☁️ Cloud Support
-- 📋 Log Analysis
-- 🔍 Error Diagnosis
-- 📊 Monitoring
-
-### Tech
-
-`Python` `FastAPI` `Docker` `AWS`
-
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-## 🌍 SatyaSetu
-
-### Rural Cyber Defense Platform
-
-AI-powered cyber awareness and protection platform for rural communities.
-
-### Features
-
-- 🛡 Scam Detection
-- 🌐 Regional Language Support
-- 🤖 AI Assistant
-- 📚 Educational Modules
-- 📱 Mobile Friendly
-
-### Tech
-
-`Python` `FastAPI` `LLMs` `React`
-
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-## 🌐 Lingo
-
-### AI Translation Platform
-
-Real-time multilingual translation platform powered by modern language models.
-
-### Features
-
-- 🌍 Multiple Languages
-- ⚡ Fast Translation
-- 🤖 LLM Powered
-- 🧠 Context Aware
-- 🔊 Speech Support
-
-### Tech
-
-`Python` `FastAPI` `React`
-
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-# 📈 Engineering Highlights
-
-| Domain | Experience |
-|---------|------------|
-| 🤖 Agentic AI | ⭐⭐⭐⭐⭐ |
-| 🧠 LLM Applications | ⭐⭐⭐⭐⭐ |
-| 🔍 RAG Pipelines | ⭐⭐⭐⭐⭐ |
-| ⚡ Backend APIs | ⭐⭐⭐⭐⭐ |
-| ☁️ Cloud Deployment | ⭐⭐⭐⭐☆ |
-| 📊 AI Automation | ⭐⭐⭐⭐⭐ |
-| 🏗 System Design | ⭐⭐⭐⭐☆ |
-| 🌐 Full Stack Development | ⭐⭐⭐⭐☆ |
-
----
-
-<!-- ========================================================= -->
-<!--                 CURRENTLY BUILDING                        -->
-<!-- ========================================================= -->
-
-<h1 align="center">🚀 Currently Building</h1>
+## 📊 GitHub activity
 
 <div align="center">
 
-| 🏗️ Project | 🚦 Status | 🎯 Focus |
-|:-----------|:--------:|:--------|
-| 🧠 Multi-Agent AI Platform | 🟢 Active | Autonomous AI Systems |
-| 📚 AI Research Paper | 🟢 Writing | Applied LLM Research |
-| 📜 AI Patent | 🟢 Filing | AI Innovation |
-| 🌍 AI Translation Platform | 🟢 Building | Multilingual Intelligence |
-| ⚡ AI Workflow Automation | 🟢 Active | Enterprise Automation |
-| ☁️ AI Infrastructure | 🟢 Scaling | Cloud Native AI |
-
-</div>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Focus-Agentic_AI-00E5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Research-LLMs-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-GitHub-181717?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🔬 Research & Innovation
-
-<div align="center">
-
-> **Building production-grade AI systems where intelligent agents, memory, retrieval, and scalable infrastructure work together.**
-
-</div>
-
-<br>
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 Artificial Intelligence
-
-- 🤖 Agentic AI
-- 👥 Multi-Agent Systems
-- 🧠 Reasoning & Planning
-- 🔄 Tool Calling
-- 🪄 Prompt Engineering
-
-</td>
-
-<td width="50%">
-
-### 📚 LLM Systems
-
-- 📖 Retrieval-Augmented Generation
-- 💾 Long-Term Memory
-- 🔎 Hybrid Search
-- 🗂️ Vector Databases
-- 📊 LLM Evaluation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### ⚡ Engineering
-
-- 🚀 Backend Engineering
-- ☁️ Cloud Native AI
-- 🏗️ System Design
-- 🔗 API Development
-- 🧩 AI Infrastructure
-
-</td>
-
-<td>
-
-### 🔭 Research
-
-- 📜 AI Patent
-- 📚 AI Research Paper
-- 🌍 Multilingual AI
-- 🤝 Human-AI Collaboration
-- ⚙️ AI Workflow Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PrathameshTawar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshTawar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshTawar&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshTawar&theme=tokyo-night&hide_border=true&radius=12"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PrathameshTawar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
-
-</div>
-
----
-
-# 🗺️ 2026 Roadmap
-
-<div align="center">
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 CAREER
-
-✅ AI Engineer
-✅ Production AI Systems
-✅ Multi-Agent Platforms
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🔬 RESEARCH
-
-🟢 AI Research Paper
-🟢 AI Patent
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🌍 OPEN SOURCE
-
-⬜ 100+ Contributions
-⬜ 1,000 GitHub Stars
-⬜ AI Developer Community
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎤 PROFESSIONAL
-
-⬜ Conference Speaker
-⬜ International Publication
-⬜ Open Source Maintainer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🏢 ENTREPRENEURSHIP
-
-⬜ AI SaaS Product
-⬜ AI Startup
-⬜ Global Users
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
----
-
-# 💡 Current Interests
-
-<div align="center">
-
-| 🧠 AI | ⚙️ Systems | ☁️ Infrastructure | 🔬 Research |
-|:------|:-----------|:------------------|:------------|
-| Agentic AI | Backend Engineering | AWS | LLM Research |
-| Multi-Agent Systems | Distributed Systems | Docker | Memory Systems |
-| RAG | API Design | Kubernetes | AI Evaluation |
-| Tool Calling | System Design | PostgreSQL | Responsible AI |
-| Long Context | FastAPI | Vector Databases | Applied AI |
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrathameshTawar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=PrathameshTawar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrathameshTawar&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution graph"/>
+
+<!-- Generated by .github/workflows/snake.yml (pushed to the "output" branch) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrathameshTawar/PrathameshTawar/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrathameshTawar/PrathameshTawar/output/github-snake.svg"/>
+  <img width="95%" alt="Contribution snake" src="https://raw.githubusercontent.com/PrathameshTawar/PrathameshTawar/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -807,62 +181,8 @@ Real-time multilingual translation platform powered by modern language models.
 
 <div align="center">
 
-## 💬 Engineering Philosophy
+**Currently:** writing a paper on Indic multilingual RAG · building multi-agent systems · open to AI engineering internships
 
-*"Great AI products are built through reliable engineering, scalable infrastructure, and thoughtful system design—not just powerful language models."*
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/PrathameshTawar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prathamesh-taware-39bab8288">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<!-- Replace with your portfolio URL when available -->
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/>
-</a>
-
-<!-- Replace with your email -->
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:0891b2,100:06b6d4&height=110&section=footer" width="100%"/>
 
 </div>
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-> **"Great AI isn't just about powerful models—it's about designing reliable systems that people can trust."**
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-If you like my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,30:1e3a8a,70:0891b2,100:06b6d4&height=120&section=footer"/>
-
-</div>
-🔬 AI Research
-📜 Innovation & Patents
-🌍 Open Source
-```
-
----
